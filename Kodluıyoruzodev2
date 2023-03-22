@@ -1,0 +1,143 @@
+<h1>
+     Kemal Efe Ersan
+</h1>
+<!-- Burada en büyük başlığı kullanarak adımı ve soyadımı yazdım. -->
+
+<hr>
+
+
+<h2>
+     Hakkımda
+</h2>
+<!-- Burada h2 başlığını kullanarak Hakkımda kısmını oluşturdum. -->
+
+<ul>
+      <li>
+  <P>       Merhabalar ben  <strong>Efe.</strong>.20 yaşındayım.İstanbul'da yaşıyorum.</P>
+      </li>
+      <li>
+  <p>       Spor yapmayı ve hobiler ile ilgilenmeyi seviyorum.</p>
+<hr>
+      </li>
+</ul>
+
+<!-- Burada paragraf oluşturarak kendimi tanıttım. -->
+
+<h2>Sevdiğim sporlar</h2>
+<!--Burada h2 başlık kullanarak Sevdiğim sporları belirttim.  -->
+
+<h3>
+  <ol>
+      <li>
+          Basketbol
+      <li>
+          Bisiklet
+  
+          <br>
+      
+      <li>  
+          Koşmak
+      </li>
+  </ol>
+</h3>
+
+<p>Amatör olarak dağ bisikleti ve yol bisikleti kullanıyorum.</p>
+<hr>
+
+<h2>
+         En sevdiğim kitaplar 
+</h2>
+
+<p>
+<ol>
+<li>
+
+          Bilinçaltının Gücü -- 
+          <a href="https://www.goodreads.com/book/show/15744294"target="_blank">
+            goodreads puanını görmek için:
+          </a>
+<li>
+          Atomic Habits  --
+          <a href="https://www.goodreads.com/book/show/40121378-atomic-habits"target="_blank">
+            goodreads puanını görmek için:
+          </a>
+
+
+</li>
+</ol>
+</p>
+
+
+<hr>
+
+<h2>
+        En sevdiğim diziler
+</h2>
+  <ol>
+    <li>
+
+  <strong>
+    
+      <em>
+<h3>
+              The Walking Dead
+</h3>
+      </em>
+  
+  </strong>
+</li>
+
+<p>
+  <ul>
+    <li>
+      The Walking Dead, Frank Darabont tarafından geliştirilen bir Amerikan televizyon dizisidir. Hikâyesi, Robert Kirkman, Tony Moore ve Charlie Adlard 'ın aynı adlı çizgi romanına dayanmaktadır.
+    </li> 
+  </ul>
+</p>
+
+<img src="https://upload.wikimedia.org/wikipedia/tr/8/89/The_Walking_Dead_2_sezon_afi%C5%9Fi.jpg" width="600" height="500"  alt="TWD Kapak fotoğrafı">
+
+<br>
+<br>
+
+<a href="https://www.imdb.com/title/tt1520211/"target="_blank">
+  TWD imdb puanını görmek için tıklayın.
+</a>
+
+<hr>
+
+<h3>
+  <li>
+    <strong>
+    <em> 
+      
+  The Last Of Us 
+</em> 
+</strong>
+</h3>
+
+<p>
+  <ul>
+  <li>
+  
+  
+  The Last of Us, 2023 yılı başında HBO Max'ta yayımlanmaya başlayan bir Amerikan televizyon dizisidir.
+
+</li>
+</ul>
+</p>
+
+<img src="https://tr.web.img4.acsta.net/pictures/22/11/30/19/53/5856320.jpg" alt="The Last Of Us Kapak Fotoğrafı">
+
+<br>
+<br>
+
+<a href="https://www.imdb.com/title/tt3581920/"target="_blank">
+İmdb puanını görmek için : 
+</a>
+</ol>
+
+<hr>
+<br>
+
+
